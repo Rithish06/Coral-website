@@ -1,0 +1,1150 @@
+@media (min-width: 768px) and (max-width:991px) {
+
+  .construct {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+
+  .socialmedia {
+    text-align: center;
+  }
+
+  .contact_us {
+    font-size: 0.6rem;
+
+  }
+
+  .resdential {
+
+    padding: 20px;
+
+  }
+
+  .btnbooknow {
+    left: 57px;
+
+  }
+
+  .intrested_wrapper {
+    margin-bottom: 20px;
+  }
+
+  .best_home_construct {
+    background: #f2f2f2;
+    padding: 50px 0;
+  }
+
+  .about {
+    height: auto;
+
+  }
+
+  .main_form_div .form_input input[type="submit"i] {
+    width: 100%;
+  }
+
+
+
+  .card {
+    margin: 10px auto;
+  }
+
+  .abt_text_section {
+    margin-top: 0;
+  }
+
+  .aboutus2_img {
+    position: relative;
+    top: -40%;
+    left: 0;
+    text-align: center;
+  }
+
+  
+
+  .address h6 {
+    margin: 20px 0 0 0;
+  }
+
+  .bottom_footer p {
+
+    text-align: center;
+  }
+
+  .abt_sanati_paragraph {
+    text-align: center;
+  }
+
+  .abt_sanati_paragraph p {
+    text-align: center;
+  }
+
+  .quick_links h6 {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+  }
+
+  nav ul li {
+    font-size: 35px;
+    margin: 35px 0;
+  }
+
+  .address {
+    text-align: center;
+  }
+
+  footer ul {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .carousel-caption {
+    position: absolute !important;
+    top: 15% !important;
+    left: 11% !important;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+  }
+
+  nav ul {
+    position: fixed;
+    top: 100px;
+    left: -100%;
+    background-color: #fafafa;
+    width: 100%;
+    height: 100vh;
+    display: block;
+    z-index: 100;
+    text-align: center;
+    padding: 0;
+    transition: all 0.5s ease-in-out;
+  }
+
+  nav ul li {
+    font-size: 25px;
+    margin: 25px 0;
+  }
+
+  nav ul li a {
+    color: #0072bc;
+  }
+
+  nav .menu-btn {
+    font-size: 35px;
+    display: block;
+    color: #ef6613;
+  }
+
+  nav label i {
+    font-size: 25px;
+    color: #fff;
+  }
+
+  #click:checked~ul {
+    left: 0;
+    transition: all 0.6s ease-out;
+  }
+
+}
+
+@media (min-width: 581px) and (max-width:767px) {
+  .form_wrapper_main {
+    width: 100%;
+    margin: 0 auto;
+}
+.about {
+  height: auto;
+  }
+.how_it_works{
+  text-align: center;
+}
+.btnbooknow {
+  left: 140px;
+}
+  .main_heading_background {
+    height: auto;
+
+}
+  .last-child {
+    margin-bottom: 10px;
+  }
+
+  
+
+  .privacy {
+    margin-bottom: 25px;
+  }
+
+  .socialmedia {
+    text-align: center;
+  }
+
+  .blog_main_text h1 {
+    margin: 0;
+  }
+
+  .about_head h5 {
+    text-align: center;
+  }
+
+  .bottom_footer p {
+
+    text-align: center;
+  }
+
+  .abt_sanati_paragraph {
+    text-align: center;
+  }
+
+  .abt_sanati_paragraph p {
+    text-align: center;
+  }
+
+  .quick_links h6 {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+  }
+
+  .address {
+    text-align: center;
+  }
+
+  footer ul {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .slick-dots {
+
+    width: 84%;
+  }
+
+  .corp_client {
+    margin-left: 0;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+  }
+
+  
+
+
+
+  #click:checked~.menu-btn :before {
+    content: "";
+
+  }
+
+  .carouselExampleCaptions {
+    z-index: -1;
+  }
+
+  nav ul li {
+    font-size: 25px;
+    margin: 25px 0;
+  }
+
+  nav ul li a {
+    color: #0072bc;
+  }
+
+  nav .menu-btn {
+    font-size: 35px;
+    display: block;
+    color: #ef6613;
+  }
+
+  nav label i {
+    font-size: 25px;
+    color: #fff;
+  }
+
+  #click:checked~ul {
+    left: 0;
+    transition: all 0.6s ease-out;
+  }
+
+  .carousel-caption {
+    position: absolute !important;
+    top: 23% !important;
+    left: 40% !important;
+  }
+
+  .carousel-caption h1 {
+    margin: 0;
+    font-size: 1.2rem;
+
+  }
+
+  .carousel-caption p {
+    margin: 0 0 3px 0 !important;
+    font-size: 1.2rem;
+
+  }
+
+  .carousel-caption a {
+    position: absolute;
+    left: 0;
+    text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 10px;
+
+    text-align: left;
+    color: #fff;
+    font-size: 0.6rem !important;
+  }
+
+  .form_input input {
+    width: 75%;
+    margin: 0 auto;
+    color: #fff;
+    border: none;
+    outline: none;
+
+  }
+
+  .form_input select {
+    width: 75%;
+    margin: 0 auto;
+  }
+
+  .form_input input[type="submit"i] {
+    width: 30%;
+    background-color: #993300;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin: 0 auto;
+  }
+
+
+
+  select+i.fa {
+    float: right;
+    margin-top: -28px;
+    font-size: 20px;
+    margin-right: 95px;
+    pointer-events: none;
+    background-color: #fff;
+    padding-right: 5px;
+  }
+
+  .circle_logo {
+    display: none;
+  }
+
+
+
+  .about_pg_logo {
+    display: none;
+  }
+
+
+
+  .sanati_bg {
+    width: 100%;
+    height: auto;
+  }
+
+
+  .bg_change {
+    width: auto;
+  }
+
+
+  .bg_change2 {
+    width: auto;
+  }
+
+
+  .slick-arrow {
+    display: none;
+  }
+
+
+  footer {
+    padding: 15px;
+  }
+
+  .quick_links h6 {
+    width: auto;
+  }
+
+  footer ul {
+    width: auto;
+  }
+
+  .bottom_footer p {
+    text-align: center;
+  }
+
+  .aboutus2_img {
+    position: relative;
+    top: -40%;
+    /* left: 10%; */
+  }
+
+  .about_main_text {
+    text-align: center;
+  }
+
+  .about_main_text h1 {
+    margin: 0s;
+  }
+
+  .abt_text_section {
+    margin-top: 0;
+  }
+
+
+  .branches_img {
+    margin: 20px 0;
+  }
+
+  .gallery_img_sec {
+    margin: 15px 0;
+  }
+
+
+
+  .for_slider .slick-slide {
+    transition: all 0.5s ease-in;
+    transform: scale(0);
+    margin: 0 -100px;
+    border-radius: 8px;
+    filter: grayscale(100%);
+
+  }
+
+  .for_slider .slick-center {
+    transition: all 0.5s ease-in;
+    transform: scale(0.7);
+    border-radius: 8px;
+    box-shadow: 3px 3px 15px 5px rgba(214, 214, 214, 0.768);
+    filter: grayscale(0);
+  }
+
+
+
+  .for_slider .slick-dots li button:before {
+    display: none;
+  }
+
+
+  #button {
+    display: inline-block;
+    background-color: #993300;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 60px;
+    right: 60px;
+    transition: background-color .3s,
+      opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 998;
+  }
+
+  .bg_change {
+    height: auto;
+  }
+
+  .bg_change2 {
+    height: auto;
+  }
+
+  .main_form_div .form_input input[type="submit"i] {
+    width: 50%;
+    background-color: #993300;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin: -15px auto 0 auto;
+  }
+
+  .mobile_view .number_bg {
+
+    background-color: #334fff;
+    padding: 8px 10px;
+  }
+
+  .mobile_view .number_bg a {
+    width: 50%;
+    color: #fff;
+    padding: 8px 10px;
+    text-decoration: none;
+    background-color: #334fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+
+  .mobile_view .whatsapp_bg {
+    background-color: #4dc247;
+    color: #fff;
+    padding: 8px 10px;
+
+    margin: 0 auto;
+  }
+
+  .mobile_view .whatsapp_bg a {
+    background-color: #4dc247;
+    color: #fff;
+    width: 50%;
+    text-decoration: none;
+    padding: 8px 10px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+
+  .mobile_view {
+    display: block;
+    text-align: center;
+    visibility: visible;
+  }
+
+  .desktop_view {
+    visibility: hidden;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .aboutus2_img img {
+    width: 100%;
+  }
+
+
+  .slick-dots {
+    display: none !important;
+  }
+
+  .about_sanati p {
+    width: 100%;
+  }
+
+  .bg_change P {
+    width: 100%;
+    padding: 10px 0;
+    text-align: justify;
+  }
+
+  #right_align {
+    display: flex;
+    justify-content: flex-end;
+    text-align: justify;
+  }
+
+
+  .main_testi_heading h3 {
+    margin: 0 0 20px 0;
+
+  }
+
+  .icon_section {
+
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .abt_para_section {
+    text-align: justify;
+
+  }
+
+  .abt_para_section2 {
+    text-align: justify;
+
+  }
+
+  .icon_section2 {
+    width: 100%;
+    flex-direction: column-reverse;
+  }
+
+  .icon_section img {
+    width: 30%;
+
+
+  }
+
+  .icon_section2 img {
+    width: 31%;
+    height: 10%;
+
+  }
+
+  .icon_section2 h1 {
+
+    text-align: center;
+  }
+
+  .card {
+    margin: 5px auto;
+  }
+
+
+  nav .logo a {
+    margin: 0;
+
+  }
+
+  .address h6 {
+    margin: 20px 0 0 0;
+  }
+
+  .abt_sanati_paragraph p {
+    text-align: justify;
+  }
+
+  nav ul li {
+    font-size: 35px;
+    margin: 35px 0;
+  }
+
+  .quick_links ul {
+    margin-top: 10px;
+  }
+
+  .slider {
+    margin-bottom: 0 !important;
+  }
+
+  .company {
+    width: 100%;
+
+  }
+}
+
+
+
+
+
+@media screen and (max-width:580px) {
+  .main_heading_background {
+    height: auto;
+
+}
+.second_card {
+  top: 0;
+  right: 0;
+}
+.about_doctor {
+    padding: unset;
+    padding-top: 32px;
+    padding-bottom: 30px;
+}
+.col_about_doctor .card{
+    margin-top: 30px;
+}
+.hometheory_services .card{
+    margin-top: 30px;
+}
+.hometheory_services h4 {
+    font-size: 28px;
+}
+.about_doctor h1, .about_health h1, .about_us h1, .form_submit h1, .hometheory_services h4, .comprehensive h4, .client_directories h4{
+     font-size: 28px;
+}
+.client_directories img{
+    width: 100%;
+}
+.comprehensive .card{
+    padding: unset;
+}
+.comprehensive .card p{
+    text-align:justify;
+}
+.contact .info p {
+    font-size: 0.7rem;
+    /* text-align: justify; */
+}
+.about_card .card p {
+    font-size: 0.8rem;
+}
+.about_card_wrap h1 {
+    font-size: 16px;
+    line-height: 20px;
+}
+.doctor_det {
+    height: 120px;
+    border: 5px solid #e395c2;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.doctor_det img {
+    width: 55px;
+}
+.form_submit input{
+    width: auto;
+}
+.form_submit textarea{
+    width: auto;
+}
+.logo_center_det {
+    display: none;
+}
+.bg_change h2{
+    text-align: center;
+}
+.first_section{
+  margin-top: 30px;
+}
+.about_doctor .card {
+    margin-top: 30px;
+}
+.best_home_construct {
+
+  padding: 0;
+}
+.contact_us {
+  
+  font-size: 0.8rem;
+}
+.how_it_works{
+  text-align: center;
+}
+.btnbooknow {
+  left: 113px;
+}
+.about {
+height: auto;
+}
+  .contact_form input {
+    width: 100%;
+
+  }
+  .form_wrapper_main {
+    width: 100%;
+   
+}
+  .contact_form select {
+    width: 100%;
+
+  }
+
+  .contact_form input[type="submit"i] {
+    width: 100%;
+
+  }
+
+  .contact_address {
+    text-align: center;
+  }
+
+  .carousel-caption ul li {
+    color: #000;
+    font-size: 10px;
+    font-weight: 600;
+    margin: 10px 10px 0 -25px;
+    line-height: 0;
+  }
+
+  .slider {
+    margin-bottom: 0 !important;
+  }
+
+  .last-child {
+    margin-bottom: 10px;
+  }
+
+  .blog_main_text {
+    margin: 30px 0;
+  }
+
+  .gallery_row {
+    margin-top: 0;
+  }
+
+  .quick_links ul {
+    margin-top: 10px;
+  }
+
+  .privacy {
+    margin-bottom: 25px;
+  }
+
+  .socialmedia {
+    text-align: center;
+  }
+
+  .blog_main_text h1 {
+    margin: 0;
+  }
+
+  .about_head h5 {
+    text-align: center;
+  }
+
+  
+  .abt_sanati_paragraph {
+    text-align: center;
+  }
+
+  .abt_sanati_paragraph p {
+    text-align: justify;
+  }
+
+  .quick_links h6 {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+  }
+
+  .address {
+    text-align: center;
+  }
+
+  .address h6 {
+    margin: 20px 0 10px 0;
+  }
+
+  footer ul {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  nav .logo a {
+    margin: 0;
+  }
+
+
+
+  
+  .main_testi_heading h3 {
+    margin: -20px 0 20px 0;
+
+  }
+
+  .main_form_div .form_input h5 {
+    margin: 0 0 -14px 0;
+  }
+
+  .braches2 .slick-next {
+    display: none !important;
+  }
+
+  .slick-dots {
+    display: none !important;
+  }
+
+  .for_slider .draggable {
+    padding: 0;
+    width: auto !important;
+    height: 45vh !important;
+  }
+
+  .slick-dots {
+
+    width: 84%;
+
+  }
+
+
+  .mobile_view .number_bg {
+
+    background-color: #334fff;
+    padding: 8px 10px;
+  }
+
+  .mobile_view .number_bg a {
+    width: 50%;
+    color: #fff;
+    padding: 8px 10px;
+    text-decoration: none;
+    background-color: #334fff;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+
+  .mobile_view .whatsapp_bg {
+    background-color: #4dc247;
+    color: #fff;
+    padding: 8px 10px;
+
+    margin: 0 auto;
+  }
+
+  .mobile_view .whatsapp_bg a {
+    background-color: #4dc247;
+    color: #fff;
+    width: 50%;
+    text-decoration: none;
+    padding: 8px 10px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+
+  .mobile_view {
+    display: block;
+    text-align: center;
+    visibility: visible;
+  }
+
+  .desktop_view {
+    visibility: hidden;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+  }
+
+  nav ul {
+    position: fixed;
+    top: 79px;
+    left: -100%;
+    background-color: #0d233b;
+    width: 100%;
+    height: 100vh;
+    display: block;
+    z-index: 100;
+    text-align: center;
+    padding: 0;
+    transition: all 0.5s ease-in-out;
+  }
+
+  #click:checked~.menu-btn:before {
+    content: "";
+
+  }
+
+  .carouselExampleCaptions {
+    z-index: -1;
+  }
+
+  nav ul li {
+    font-size: 35px;
+    margin: 22px 0;
+}
+  nav ul li a {
+    color: #ffffff;
+  }
+
+  nav .menu-btn {
+    font-size: 35px;
+    display: block;
+    color: #18a89f;
+  }
+
+  nav label i {
+    font-size: 25px;
+    color: #fff;
+  }
+
+  #click:checked~ul {
+    left: 0;
+    transition: all 0.6s ease-out;
+  }
+
+ 
+  .form_input input {
+    width: 75%;
+    margin: 0 auto;
+    color: #fff;
+    border: none;
+    outline: none;
+
+  }
+
+  .form_input select {
+    width: 75%;
+    margin: 0 auto;
+  }
+
+  .form_input input[type="submit"i] {
+    width: 30%;
+    background-color: #993300;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin: 0 auto;
+  }
+
+
+
+  select+i.fa {
+    float: right;
+    margin-top: -28px;
+    font-size: 20px;
+    margin-right: 95px;
+    pointer-events: none;
+    background-color: #fff;
+    padding-right: 5px;
+  }
+
+
+  footer {
+    padding: 15px;
+  }
+
+  .quick_links h6 {
+    width: auto;
+  }
+
+  footer ul {
+    width: auto;
+  }
+
+  
+
+
+
+  .for_slider .slick-dots li button:before {
+    display: none;
+  }
+
+
+  #button {
+    display: inline-block;
+    background-color: #993300;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 75px;
+    right: 25px;
+    transition: background-color .3s,
+      opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 998;
+    border: 1px solid rgb(153, 153, 153);
+  }
+
+  .abt_branches_div h1 {
+    text-align: center;
+    font-family: Montserrat-Medium;
+    font-size: 1rem;
+    color: rgb(63, 63, 63);
+    margin-top: -10px;
+  }
+
+  .bg_change {
+    height: auto;
+  }
+
+  .bg_change2 {
+    height: auto;
+  }
+
+  .main_form_div .form_input input[type="submit"i] {
+    width: 50%;
+    background-color: #993300;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin: -15px auto 0 auto;
+  }
+
+}
+
+
+
+@media (max-width:320px) {
+  .btnbooknow {
+    left: 100px;
+}
+}
+
+
+@media (min-width: 992px) and (max-width : 1280px) {
+  .main_form_div .form_input h5 {
+    font-size: 1rem;
+  }
+
+  .form_input select {
+    font-size: 0.6rem;
+    padding: 11px 7px;
+  }
+
+  .form_input::placeholder {
+    font-size: 0.6rem;
+  }
+
+  nav ul {
+    width: 70%;
+
+  }
+
+  .for_slider .slick-slide {
+
+    transform: scale(0.4);
+
+  }
+
+  .slider .slick-slide img {
+
+    width: 90%;
+  }
+
+  .sanati_bg {
+    width: 328px;
+
+  }
+
+  .main_section a {
+
+    font-size: 0.8rem;
+
+  }
+
+  .bottom_footer p {
+    font-size: 0.6rem;
+
+  }
+
+  .privacy a {
+    font-size: 0.6rem;
+
+  }
+
+}
+
+/*-------------------------- media query--------------- */
+
+
+
+@media (max-width:1440px) {
+  .for_slider .slick-center {
+    transition: all 0.5s ease-in;
+    transform: scale(0.8);
+    border-radius: 5px;
+    box-shadow: 4px 5px 15px 8px rgba(209, 209, 209, 0.892);
+    filter: grayscale(0);
+    background-color: #fff;
+
+    opacity: 1;
+    border: none;
+  }
+
+  .for_slider .draggable {
+    padding: 0;
+    height: 75vh;
+  }
+}
